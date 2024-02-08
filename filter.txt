@@ -29,3 +29,11 @@
 ||ulogs.umengcloud.com^
 ||umengjmacs.m.taobao.com^
 ||fp-*it*.fengkongcloud.com^
+||amdc.m.taobao.com^
+||dorangesource.alicdn.com^
+||open.kuaishouzt.com^
+||open.kwaizt.com^
+||sugar.zhihu.com^
+||tdid.m.qq.com^
+||volceapplog.com^
+||zhihu-web-analytics.zhihu.com^
